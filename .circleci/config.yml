@@ -32,5 +32,3 @@ jobs:
           paths:
             - "venv"
             
-
-$ brew install node
